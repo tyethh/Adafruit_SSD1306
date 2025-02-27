@@ -2,7 +2,7 @@
 
 This is a library for our Monochrome OLEDs based on SSD1306 drivers
 
-  Pick one up today in the adafruit shop!
+  MicroPython Documentation
   ------> https://tyethh.github.io/micropython/
 
 These displays use I2C or SPI to communicate, 2 to 5 pins are required to interface.
