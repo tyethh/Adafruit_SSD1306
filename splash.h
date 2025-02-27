@@ -4,7 +4,7 @@
  *
  * Splashes will be stored in PROGMEM (flash).
  * If SSD1306_NO_SPLASH is defined, the splashes are omitted.
- * d /
+ */
 
 #ifndef SSD1306_NO_SPLASH
 /* clang-format off */
